@@ -12,3 +12,7 @@ $ python run.py
 
 ## Important!
 > Only for education purpose, don't abuse this tool to commit a Crime!
+
+# Contributors
+- [Nubzbie](https://github.com/Nubzbie)
+- [N74NK](https://github.com/N74NK)
