@@ -9,6 +9,7 @@ $ git clone https://github.com/TERMUXID3/email-sender
 $ cd email-sender
 $ python run.py
 ```
+[Instruksi selengkapnya >](https://shorturl.at/quEJ)
 
 ## Important!
 > Only for education purpose, don't abuse this tool to commit a Crime!
